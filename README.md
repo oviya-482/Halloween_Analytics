@@ -1,4 +1,4 @@
-# Tableau_dashboard
+# Halloween trends Dashboard
  Project link: https://public.tableau.com/app/profile/oviya.s5224/viz/HalloweenAssignment_17881128418780/Dashboard2?publish=yes
  The **Halloween Trends Dashboard** is a festive, themed visualization that pulls together multiple perspectives on visitor turnout during Halloween events. 
 
